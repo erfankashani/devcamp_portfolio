@@ -1,10 +1,15 @@
-#  Devcamp Portfolio README
+#  Devcamp Portfolio README (mark down language)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
+> this is a rails application which allows users to biuld profiles
+
+#### features 
+* having a _**postgres**_ database 
+
+* **rials** backend
+
+#### Improvment list
 * Ruby version
 
 * System dependencies
@@ -22,3 +27,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
